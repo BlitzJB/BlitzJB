@@ -1,11 +1,6 @@
 <style>
     .gradient-text {
-        background:#8E2DE2; /* Fallback */
-
-        background: linear-gradient(to right, #4A00E0, #8E2DE2);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        font-weight:bold;
+        
     }
 
     .intro-text {
@@ -32,7 +27,12 @@
 <div>
     <h1>
         Hey there! I'm 
-        <span class="gradient-text">Blitz</span>!
+        <span class="gradient-text" style="background:#8E2DE2; /* Fallback */
+
+        background: linear-gradient(to right, #4A00E0, #8E2DE2);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-weight:bold;">Blitz</span>!
     </h1>
 </div>
 
