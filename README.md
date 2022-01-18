@@ -24,12 +24,9 @@
     }
 </style>
 
-<div>
-    
-        Hey there! I'm 
-        <span class="gradient-text" style="background:#8E2DE2;background: linear-gradient(to right, #4A00E0, #8E2DE2);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-weight:bold;">Blitz</span>!
-    
-</div>
+Hey there! I'm 
+<span class="gradient-text" style="background:#8E2DE2;background: linear-gradient(to right, #4A00E0, #8E2DE2);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-weight:bold;">Blitz</span>!
+
 
 <p class="intro-text">I have fun with web technologies</p>
 <h3 class="section-title">Languages</h3>
