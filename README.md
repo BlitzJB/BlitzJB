@@ -1,28 +1,3 @@
-<style>
-    .gradient-text {
-        
-    }
-
-    .intro-text {
-        margin-bottom:25px
-    }
-
-    .section-title {
-        margin-bottom:15px;
-        font-weight:bold
-    }
-
-    .badge-container {
-        display:flex;
-        flex-wrap:wrap;
-        margin-bottom: 30px
-    }
-
-    .badge {
-        margin-right: 5px;
-        margin-bottom: 8px
-    }
-</style>
 
 ## Hey there! I'm Blitz!
 
