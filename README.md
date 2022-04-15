@@ -24,8 +24,7 @@
     }
 </style>
 
-Hey there! I'm 
-<span class="gradient-text" style="background:#8E2DE2;background: linear-gradient(to right, #4A00E0, #8E2DE2);-webkit-background-clip: text;-webkit-text-fill-color: transparent;font-weight:bold;">Blitz</span>!
+## Hey there! I'm Blitz!
 
 
 <p class="intro-text">I have fun with web technologies</p>
