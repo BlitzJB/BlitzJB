@@ -35,7 +35,7 @@
 <div class="badge-container">
 
 <img class="badge" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 <img class="badge" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img class="badge" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
 
